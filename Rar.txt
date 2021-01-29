@@ -3,20 +3,7 @@
                         RAR 6.00 console version
                         ~~~~~~~~~~~~~~~~~~~~~~~~
 
-                       =-=-=-=-=-=-=-=-=-=-=-=-=-=-
-                       Welcome to the RAR Archiver!
-                       -=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
- Introduction
- ~~~~~~~~~~~~
-
-    RAR is a console application allowing to manage archive files
-  in command line mode. RAR provides compression, encryption,
-  data recovery and many other functions described in this manual.
-
-    RAR supports only RAR format archives, which have .rar file name
-  extension by default. ZIP and other formats are not supported.
-  Even if you specify .zip extension when creating an archive, it will
+         an archive, it will
   still be in RAR format. Windows users may install WinRAR, which supports
   more archive types including RAR and ZIP formats.
 

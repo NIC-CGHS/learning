@@ -1,43 +1,5 @@
      END USER LICENSE AGREEMENT
 
-     The following agreement regarding RAR (and its Windows version - WinRAR)
-     archiver - referred to as "software" - is made between win.rar GmbH -
-     referred to as "licensor" - and anyone who is installing, accessing
-     or in any other way using the software - referred to as "user".
-
-  1. The author and holder of the copyright of the software is
-     Alexander L. Roshal. The licensor and as such issuer of the license
-     and bearer of the worldwide exclusive usage rights including the rights
-     to reproduce, distribute and make the software available to the public
-     in any form is win.rar GmbH, Marienstr. 12, 10117 Berlin, Germany.
-
-  2. The software is distributed as try before you buy. This means that
-     anyone may use the software during a test period of a maximum of 40 days
-     at no charge. Following this test period, the user must purchase
-     a license to continue using the software.
-
-  3. The software's trial version may be freely distributed, with exceptions
-     noted below, provided the distribution package is not modified in any way.
-
-     a. Nobody may distribute separate parts of the package, with the exception
-        of the UnRAR components, without written permission.
-
-     b. The software's unlicensed trial version may not be distributed
-        inside of any other software package without written permission.
-        The software must remain in the original unmodified installation
-        file for download without any barrier and conditions to the user
-        such as collecting fees for the download or making the download
-        conditional on the user giving his contact data.
-
-     c. The unmodified installation file of WinRAR must be provided pure
-        and unpaired. Any bundling is interdicted. In particular the use
-        of any install or download software which is providing any kind
-        of download bundles is prohibited unless granted by win.rar GmbH
-        in written form.
-
-     d. Hacks/cracks, keys or key generators may not be included, pointed to
-        or referred to by the distributor of the trial version.
-
      e. In case of violation of the precedent conditions the allowance
         lapses immediately and automatically.
 
